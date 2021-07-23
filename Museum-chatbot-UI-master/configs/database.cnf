@@ -1,0 +1,6 @@
+[client]
+database = Chat_bot
+host = localhost
+user = root
+password = Ssss1234
+default-character-set = utf8
