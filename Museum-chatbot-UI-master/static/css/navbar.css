@@ -1,0 +1,51 @@
+
+.menu-btn{
+    margin-top: 5px;
+    cursor: pointer;
+    width: 40px;
+}
+.small-line-menu{
+    width:20px;
+    height: 5px;
+    background: #888888e8;
+    margin-bottom: 4px;
+    border-radius: 2px;
+}
+.small-line-menu.up{
+    width:40px;
+    transition: 300ms;
+}
+.small-line-menu.med{
+    width:30px;
+}
+.small-line-menu.low{
+    transition: 300ms;
+    width:20px;
+}
+.navbar{
+    width:100%;
+}
+
+.img-logo{
+    height: 50px;
+    width: 50px;
+}
+.slide-bg-hover {
+    background-size: 200% 100%;
+    background-image: linear-gradient(to right,  black 50%, yellow 50%);
+    transition: 500ms;
+    font-family: 'Righteous';
+}
+
+.slide-bg-hover:hover {
+
+    background-position: +100% 00;
+    color: black;
+}
+.small-line-menu{
+    width:20px;
+    height: 5px;
+    background: white;
+    margin-bottom: 4px;
+    border-radius: 2px;
+}
